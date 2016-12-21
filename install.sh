@@ -12,7 +12,7 @@ fi
 filename=$1
 
 plugin_dir=$JENKINS_HOME/plugins
-file_owner=jenkins.jenkins
+# file_owner=jenkins.jenkins
 
 mkdir -p $plugin_dir
 
@@ -59,6 +59,7 @@ done
 
 echo "fixing permissions"
 
-chown ${file_owner} ${plugin_dir} -R
+[ -z "$file_owner" ] ||
+    chown ${file_owner} ${plugin_dir} -R
 
 echo "all done"
