@@ -42,3 +42,4 @@ pipeline-model-declarative-agent
 pipeline-model-extensions
 plain-credentials
 docker-commons
+gitlab-plugin
