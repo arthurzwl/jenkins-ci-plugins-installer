@@ -43,3 +43,4 @@ pipeline-model-extensions
 plain-credentials
 docker-commons
 gitlab-plugin
+pipeline-maven
