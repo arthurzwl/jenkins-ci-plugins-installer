@@ -44,3 +44,6 @@ plain-credentials
 docker-commons
 gitlab-plugin
 pipeline-maven
+config-file-provider
+database-mysql
+rebuild
