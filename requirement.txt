@@ -47,3 +47,4 @@ pipeline-maven
 config-file-provider
 database-mysql
 rebuild
+simple-theme-plugin
