@@ -50,3 +50,4 @@ rebuild
 simple-theme-plugin
 warnings-ng
 antisamy-markup-formatter
+junit-attachments
