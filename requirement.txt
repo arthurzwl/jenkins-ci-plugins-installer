@@ -48,3 +48,5 @@ config-file-provider
 database-mysql
 rebuild
 simple-theme-plugin
+warnings-ng
+antisamy-markup-formatter
