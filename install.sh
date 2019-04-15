@@ -63,4 +63,7 @@ echo "fixing permissions"
 [ -z "$file_owner" ] ||
     chown ${file_owner} ${plugin_dir} -R
 
+# remove not compatible plugin
+rm -f $plugin_dir/project-inheritance.hpi
+
 echo "all done"
