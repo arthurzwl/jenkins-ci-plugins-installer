@@ -52,3 +52,4 @@ warnings-ng
 antisamy-markup-formatter
 junit-attachments
 m2release
+matrix-project
