@@ -53,3 +53,10 @@ antisamy-markup-formatter
 junit-attachments
 m2release
 matrix-project
+bouncycastle-api
+command-launcher
+external-monitor-job
+jdk-tool
+ldap
+pam-auth
+windows-slaves
